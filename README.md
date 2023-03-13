@@ -1,2 +1,2 @@
 # HorseRace-repo
-HorseRace game using objects created via inheritance in java.
+HorseRace game using objects created via inheritance in java. Constructor created to make objects of a class, getter methods used to catch variables in a class, random function utilized to generate random used as speed of each object in the game. Thread.sleep used to pause game every millisecond, sarray of object is created, the logic is executed to create a fully functional game.
